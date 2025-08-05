@@ -29,5 +29,5 @@ Paulo Terra — Estudante de Sistemas da Informação
 ## 🔗 Acesse o projeto
 
 Você pode visualizar o projeto online clicando neste link:  
-👉 [Ver no GitHub Pages](https://github.com/paulodigital/amigo_secreto.git)
+👉 [Ver no GitHub Pages](https://paulodigital.github.io/amigo_secreto/)
 
